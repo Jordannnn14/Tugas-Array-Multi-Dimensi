@@ -1,0 +1,16 @@
+C:\Users\M JORDAN SULAEMAN\source\repos\latihan array multidimensi\latihan array multidimensi\bin\Debug\net8.0-windows\latihan array multidimensi.exe
+C:\Users\M JORDAN SULAEMAN\source\repos\latihan array multidimensi\latihan array multidimensi\bin\Debug\net8.0-windows\latihan array multidimensi.deps.json
+C:\Users\M JORDAN SULAEMAN\source\repos\latihan array multidimensi\latihan array multidimensi\bin\Debug\net8.0-windows\latihan array multidimensi.runtimeconfig.json
+C:\Users\M JORDAN SULAEMAN\source\repos\latihan array multidimensi\latihan array multidimensi\bin\Debug\net8.0-windows\latihan array multidimensi.dll
+C:\Users\M JORDAN SULAEMAN\source\repos\latihan array multidimensi\latihan array multidimensi\bin\Debug\net8.0-windows\latihan array multidimensi.pdb
+C:\Users\M JORDAN SULAEMAN\source\repos\latihan array multidimensi\latihan array multidimensi\obj\Debug\net8.0-windows\latihan_array_multidimensi.Form1.resources
+C:\Users\M JORDAN SULAEMAN\source\repos\latihan array multidimensi\latihan array multidimensi\obj\Debug\net8.0-windows\latihan array multidimensi.vbproj.GenerateResource.cache
+C:\Users\M JORDAN SULAEMAN\source\repos\latihan array multidimensi\latihan array multidimensi\obj\Debug\net8.0-windows\latihan array multidimensi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M JORDAN SULAEMAN\source\repos\latihan array multidimensi\latihan array multidimensi\obj\Debug\net8.0-windows\latihan array multidimensi.AssemblyInfoInputs.cache
+C:\Users\M JORDAN SULAEMAN\source\repos\latihan array multidimensi\latihan array multidimensi\obj\Debug\net8.0-windows\latihan array multidimensi.AssemblyInfo.vb
+C:\Users\M JORDAN SULAEMAN\source\repos\latihan array multidimensi\latihan array multidimensi\obj\Debug\net8.0-windows\latihan array multidimensi.vbproj.CoreCompileInputs.cache
+C:\Users\M JORDAN SULAEMAN\source\repos\latihan array multidimensi\latihan array multidimensi\obj\Debug\net8.0-windows\latihan array multidimensi.dll
+C:\Users\M JORDAN SULAEMAN\source\repos\latihan array multidimensi\latihan array multidimensi\obj\Debug\net8.0-windows\refint\latihan array multidimensi.dll
+C:\Users\M JORDAN SULAEMAN\source\repos\latihan array multidimensi\latihan array multidimensi\obj\Debug\net8.0-windows\latihan array multidimensi.pdb
+C:\Users\M JORDAN SULAEMAN\source\repos\latihan array multidimensi\latihan array multidimensi\obj\Debug\net8.0-windows\latihan array multidimensi.genruntimeconfig.cache
+C:\Users\M JORDAN SULAEMAN\source\repos\latihan array multidimensi\latihan array multidimensi\obj\Debug\net8.0-windows\ref\latihan array multidimensi.dll
